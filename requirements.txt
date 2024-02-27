@@ -1,0 +1,7 @@
+python==3.10.13
+gymnasium==0.29.1                   
+stable-baselines3==2.2.1           
+tminterface==1.0.2           
+numpy==1.24.1   
+readwritememory==0.1.5
+psutil==5.9.6
